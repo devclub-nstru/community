@@ -32,8 +32,8 @@ The result is as follows:
     ```
     See the example:
     ```
-    origin	https://github.com/i000000/nxtuporg.git (fetch)
-    origin	https://github.com/i000000/nxtuporg.git (push)
+    origin	https://github.com/i000000/devclub-nstru.git (fetch)
+    origin	https://github.com/i000000/devclub-nstru.git (push)
     ```
 
 2. Specify a new remote upstream repository to synchronize with the fork:
@@ -42,9 +42,9 @@ The result is as follows:
     ```
     See the example:
     ```
-    git remote add upstream https://github.com/nxtuporg/nxtuporg.git
+    git remote add upstream https://github.com/devclub-nstru/devclub-nstru.git
     ```
-3. Run the `git fetch upstream mai` command to fetch all the changes from upstream/master branch.
+3. Run the `git fetch upstream main` command to fetch all the changes from upstream/master branch.
 4. Set up the local `main` branch to track the remote `main` branch from the upstream repository:
     ```
     git branch -u upstream/main main
