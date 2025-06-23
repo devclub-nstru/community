@@ -1,8 +1,8 @@
-This document is the best practice guide that contains the rules to follow when working with NXTUP repositories.
+This document is the best practice guide that contains the rules to follow when working with DevClub repositories.
 
 ### Basic rules
 
-Each contributor and maintainer in NXTUP must follow this workflow:
+Each contributor and maintainer in DevClub must follow this workflow:
 
 * Work on forked repositories.
 * Create branches on the fork and avoid working directly on the `main` branch.
@@ -10,7 +10,7 @@ Each contributor and maintainer in NXTUP must follow this workflow:
 ## Prepare the fork
 
 A fork is a copy of the repository from which you raise pull requests to propose changes to the original repository.
-The unified NXTUP contribution workflow that bases on forks allows both the members of the XTUP organization and the external contributors to contribute code and content through the same process. This keeps the main repositories branches clean as contributors create branches only on the forked repositories.
+The unified DevClub contribution workflow that bases on forks allows both the members of the DevClub organization and the external contributors to contribute code and content through the same process. This keeps the main repositories branches clean as contributors create branches only on the forked repositories.
 
 ## Configure your fork
 
